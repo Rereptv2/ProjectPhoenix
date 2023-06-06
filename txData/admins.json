@@ -1,0 +1,21 @@
+[
+  {
+    "name": "RhondaH667",
+    "master": true,
+    "password_hash": "$2a$11$9o6ORXk3A0GpZjIsunJip.dUMTAGJlNxtPUmbWsf1w0FrDBeyPHgG",
+    "providers": {
+      "citizenfx": {
+        "id": "RhondaH667",
+        "identifier": "fivem:10536665",
+        "data": {
+          "sub": "bbb8bf274cb818e127c504427b9eea1a",
+          "nameid": "https://forum.cfx.re/internal/user/10536665",
+          "name": "RhondaH667",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/rhondah667/256/3418140_2.png",
+          "profile": "https://forum.cfx.re/u/RhondaH667"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
